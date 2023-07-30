@@ -1,0 +1,33 @@
+.row1{
+    height: 100vh;
+    position: fixed;
+overflow: hidden;
+}
+.icon{
+        color: #009688!important;
+    margin-right: 16px!important;
+    font-size: 18px!important;
+    display: inline-block;
+}
+.row1 a{
+        color: #757575!important;
+    text-decoration: none;
+    
+}
+hr{
+    border:1px solid #009688!important;
+    background-color: #009688!important;
+    opacity: 1;
+}
+.row2{
+  box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+       background-color: white;
+padding: 20px;
+    margin: 10px;
+}
+
+.project a{
+     color: #757575!important; 
+    text-decoration-color:#009688!important;
+
+}
